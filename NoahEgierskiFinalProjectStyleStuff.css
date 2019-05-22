@@ -53,13 +53,13 @@ h4{
 }
 
 #ColdplayPhoto{
-  background-image: url(Coldplay.png);
+  background-image: url(ColdplayPhoto2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #EdSheeranPhoto{
-  background-image: url(EdSheeran.jpg);
+  background-image: url(EdSheeranPhoto.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -71,7 +71,7 @@ h4{
 }
 
 #JoshAPhoto{
-  background-image: url(JoshA.jpg);
+  background-image: url(JoshAPhoto.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -101,7 +101,7 @@ h4{
 }
 
 #BillieEilishPhoto{
-  background-image: url(BillieEilishPhoto.jpg);
+  background-image: url(BillieEilish.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
